@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aniket Khandelwal</h1>
+<h3 align="center">A passionate Data Scientist pursuing my Engineering Degree from IIT Indore</h3>
 
-<!--
-**AK47GAMBIT/AK47GAMBIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me  
+  👉 meaniketkhandelwal222@gmail.com
 
-Here are some ideas to get you started:
+- ⚡ Fun fact  
+  👉 I love anime
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/aniket-khandelwal-9945a83a1?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://leetcode.com/AK47Gambit" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/leetcode" height="40" />
+</a>
+<a href="https://codeforces.com/profile/AK47Gambit" target="blank">
+  <img align="center" src="https://codeforces.org/s/0/images/codeforces-logo-with-telegram.png" height="40" />
+</a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,html,mongodb,mysql,python,tensorflow" />
+</p>
+
+---
