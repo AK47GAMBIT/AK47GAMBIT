@@ -26,7 +26,7 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,html,mongodb,mysql,python,tensorflow" />
+<img src="https://skillicons.dev/icons?i=cpp,mongodb,mysql,python,pytorch,html,css,javascript,nodejs,react,express" />
 </p>
 
 ---
